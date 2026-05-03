@@ -14,7 +14,7 @@ I enjoy working with data, building dashboards, analyzing information, and conti
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - Microsoft Excel
 - SQL
@@ -24,7 +24,7 @@ I enjoy working with data, building dashboards, analyzing information, and conti
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
@@ -32,7 +32,7 @@ I enjoy working with data, building dashboards, analyzing information, and conti
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Data Engineering
 - Cloud Computing
@@ -41,7 +41,7 @@ I enjoy working with data, building dashboards, analyzing information, and conti
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Sebastian-culma&show_icons=true&theme=tokyonight" />
@@ -53,7 +53,7 @@ I enjoy working with data, building dashboards, analyzing information, and conti
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Sebastian-culma&theme=tokyonight" />
