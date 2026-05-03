@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=140&section=header"/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sebastian-culma/Sebastian-culma/main/perfil.png" />
 </p>
@@ -13,9 +15,9 @@
 
 ## About Me
 
- Telecommunications Engineer passionate about Data Analytics and Data Engineering.
+Telecommunications Engineer passionate about Data Analytics and Data Engineering.
 
- I enjoy working with data, building dashboards, analyzing information, and continuously learning technologies related to the data world.
+I enjoy working with data, building dashboards, analyzing information, and continuously learning technologies related to the data world.
 
 Currently learning:
 - Data Engineering
@@ -25,7 +27,7 @@ Currently learning:
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux" />
@@ -43,16 +45,34 @@ Currently learning:
 
 ---
 
-
-##  GitHub Streak
+## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sebastian-culma&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sebastian-culma&show_icons=true&theme=radical&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-culma&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌎 Connect With Me
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sebastian-culma&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## Featured Projects
+
+- Sales Dashboard in Power BI
+- SQL Data Cleaning Project
+- Excel Business Analysis
+- ETL Pipeline Practice
+
+---
+
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-culma" target="_blank">
@@ -60,5 +80,5 @@ Currently learning:
   </a>
 </p>
 
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=140&section=footer"/>
+```
