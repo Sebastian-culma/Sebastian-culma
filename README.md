@@ -1,39 +1,24 @@
 
+<p align="center">
+  <img src="TU_BANNER_AQUI" />
+</p>
+
 # Kevin Sebastian
 ### Telecommunications Engineer | Data Analytics & Data Engineering
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sebastian-culma&label=Profile%20Views&color=0e75b6&style=flat" alt="Sebastian-culma" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analytics;Data+Engineering;SQL+%7C+Power+BI+%7C+Python;Always+Learning+New+Technologies&center=true&width=600&height=50&color=70A5FD&size=25">
 </p>
 
 ---
 
-🎓 Telecommunications Engineer passionate about Data Analytics and Data Engineering.
+## About Me
 
-I enjoy working with data, building dashboards, analyzing information, and continuously learning technologies related to the data world.
+ Telecommunications Engineer passionate about Data Analytics and Data Engineering.
 
----
+ I enjoy working with data, building dashboards, analyzing information, and continuously learning technologies related to the data world.
 
-## Tech Stack
-
-- Microsoft Excel
-- SQL
-- R Programming
-- Power BI
-- Looker Studio
-
----
-
-## Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
----
-
-## Currently Learning
-
+Currently learning:
 - Data Engineering
 - Cloud Computing
 - Python
@@ -41,22 +26,50 @@ I enjoy working with data, building dashboards, analyzing information, and conti
 
 ---
 
+##  Tech Stack
 
-## GitHub Streak
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux" />
+</p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Sebastian-culma&theme=tokyonight" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sebastian-culma&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-culma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+##  GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sebastian-culma&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌎 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/sebastian-culma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 ```
+
 
 
