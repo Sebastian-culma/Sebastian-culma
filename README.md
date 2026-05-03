@@ -1,9 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=140&section=header"/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sebastian-culma/Sebastian-culma/main/perfil.png" />
-</p>
-
 # Kevin Sebastian
 ### Telecommunications Engineer | Data Analytics & Data Engineering
 
@@ -45,16 +39,6 @@ Currently learning:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sebastian-culma&show_icons=true&theme=radical&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-culma&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## GitHub Streak
 
 <p align="center">
@@ -81,4 +65,3 @@ Currently learning:
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=140&section=footer"/>
-```
