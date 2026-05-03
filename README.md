@@ -1,10 +1,6 @@
-
-id="n4cf8g"
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sebastian-culma/Sebastian-culma/main/perfil.png" />
 </p>
-```
-
 
 # Kevin Sebastian
 ### Telecommunications Engineer | Data Analytics & Data Engineering
