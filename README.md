@@ -43,13 +43,7 @@ I enjoy working with data, building dashboards, analyzing information, and conti
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebastian-culma&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-culma&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sebastian-culma&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-culma&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
