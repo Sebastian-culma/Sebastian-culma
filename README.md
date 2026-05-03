@@ -65,5 +65,9 @@ Currently learning:
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=140&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=140&section=footer"/>
+
 
